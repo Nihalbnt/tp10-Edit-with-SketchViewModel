@@ -1,0 +1,19 @@
+html,
+body,
+#viewDiv {
+padding: 0;
+margin: 0;
+height: 100%;
+width: 100%;
+}
+.action-button{
+    background-color:gray;
+    border: goldenrod;
+    color:black;
+    font-size: 20px;
+    text-align: center;
+    }
+    .action-button:hover{
+    background-color: blue;
+    border: blue; 
+    }
